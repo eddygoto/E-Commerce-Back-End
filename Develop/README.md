@@ -16,13 +16,11 @@ The server.js can be started by running 'npm run start', and from there you can 
 
 ## Usage
 
-The script can be found on https://github.com/eddygoto/Weather-Dashboard.
-
-![Screenshot](./Screen%20Shot%202023-03-17%20at%2010.27.35%20PM.png)
+The script can be found on https://github.com/eddygoto/E-Commerce-Back-End.
 
 ## Credits
 
-OpenWeatherMap API
+ORM Student Mini Project
 
 ## License
 

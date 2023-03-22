@@ -17,7 +17,7 @@ The server.js can be started by running 'npm run start', and from there you can 
 ## Usage
 
 The script can be found on https://github.com/eddygoto/E-Commerce-Back-End.
-[!Screenshot](/Develop/Screen%20Shot%202023-03-18%20at%201.06.36%20AM.png)
+[!Screenshot](/Screen%20Shot%202023-03-18%20at%201.06.36%20AM.png)
 
 ## Credits
 

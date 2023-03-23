@@ -1,7 +1,5 @@
 # E-Commerce Back End
 
-homework 13
-
 ## Description
 
 The goal of this project was to create a back end for my e-commerce website.
@@ -18,6 +16,8 @@ The server.js can be started by running 'npm run start', and from there you can 
 
 The script can be found on https://github.com/eddygoto/E-Commerce-Back-End.
 ![Screenshot](/Screen%20Shot%202023-03-18%20at%201.06.36%20AM.png)
+
+Here is a link of a demo: https://watch.screencastify.com/v/uDLdiwCFJVKHIFiVDZEg
 
 ## Credits
 
